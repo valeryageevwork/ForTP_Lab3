@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9szY8yOgLFcaPP8iSOX9nsVq2+wukTO9aOfBeT5+/XMYJBp8BFndaiyn2rdNV9bL02y6/TEPVkgDVJKq4ovGA==",
+  "dgSpecHash": "F5vvltcTda1eWExt4QUAzt4HTHFM4O/8hEK8qt1cYl7fdKF0DuIu5zxt1kn3M9f3K/WhQKoOXM00UxuDSWhhNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valery\\Desktop\\UserInterfaceWPF\\UserInterfaceWPF.csproj",
+  "projectFilePath": "C:\\Users\\Valery\\source\\repos\\ForTP_Lab3\\ForTP_Lab3\\UserInterfaceWPF\\UserInterfaceWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valery\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
     "C:\\Users\\Valery\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
