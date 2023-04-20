@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9szY8yOgLFcaPP8iSOX9nsVq2+wukTO9aOfBeT5+/XMYJBp8BFndaiyn2rdNV9bL02y6/TEPVkgDVJKq4ovGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valery\\Desktop\\UserInterfaceWPF\\UserInterfaceWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valery\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\scottplot\\4.1.63\\scottplot.4.1.63.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\scottplot.wpf\\4.1.63\\scottplot.wpf.4.1.63.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Valery\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
